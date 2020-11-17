@@ -62,3 +62,5 @@ For example, if a piece of content is being promoted on a mediator service the s
 One of the core components of our proposed web search engine is a trust network.
 
 [Details to follow]
+
+(Note: Response to question, "How would you address Sybil attacks?")
